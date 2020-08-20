@@ -1,0 +1,10 @@
+GET http://localhost:8080/user/Alex HTTP/1.1
+
+###
+GET http://localhost:8080/user/Alex/email HTTP/1.1
+
+###
+GET http://localhost:8080/user1/Alex/email HTTP/1.1
+
+###
+GET http://localhost:8080/welcome?firstname=Jack&&lastname=Jason HTTP/1.1

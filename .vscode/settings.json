@@ -1,0 +1,6 @@
+{
+    "rest-client.excludeHostsForProxy": [
+        
+    "localhost"
+    ]
+}
