@@ -16,7 +16,7 @@
 ```
 &emsp;
 >## Request
-```http
+```
 PUT http://{{host}}:{{port}}/api/v1/rest/queues/{{qname}} HTTP/1.1
 Content-Type: application/json
 zid: {{tenant_id}}
